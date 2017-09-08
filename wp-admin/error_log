@@ -1,0 +1,1 @@
+[26-May-2017 08:51:06 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/msquaredoffshore/public_html/wp-includes/load.php on line 316
